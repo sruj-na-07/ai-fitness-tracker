@@ -1,0 +1,24 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Maven build files
+target/
+*.class
+
+# Logs
+*.log
+
+# Environment variables / Secrets
+.env
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local configuration files
+application-local.properties
+
+# Generated files
+*.jar
