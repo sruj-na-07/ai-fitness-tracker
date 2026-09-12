@@ -268,8 +268,7 @@ Run:
 
 RabbitMQ successfully connected with application services.
 
-![RabbitMQ Connections](Images/rabbitmq_connections.png)
-
+![RabbitMQ Connections](./Images/rabbitmq_connections.png)
 
 ---
 
@@ -277,7 +276,7 @@ RabbitMQ successfully connected with application services.
 
 Activity messages are published into the activity queue.
 
-![RabbitMQ Queue](Images/rabbitmq_queue.png)
+![RabbitMQ Queue](./Images/rabbitmq_message_flow.png)
 
 
 ---
@@ -286,7 +285,7 @@ Activity messages are published into the activity queue.
 
 RabbitMQ dashboard showing active exchanges, queues and consumers.
 
-![RabbitMQ Overview](Images/rabbitmq_overview.png)
+![RabbitMQ Overview](./Images/rabbitmq_dashboard.png)
 
 
 ---
@@ -295,8 +294,7 @@ RabbitMQ dashboard showing active exchanges, queues and consumers.
 
 AI Service generates personalized recommendations using Groq LLM.
 
-![AI Recommendation](Images/ai_recommendation.png)
-
+![AI Recommendation](./Images/ai_recommendation_response.png)
 
 ---
 
